@@ -1,0 +1,454 @@
+[
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/layout_parent_rv_layout.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/layout/parent_rv_layout.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/drawable_country_code_border.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/drawable/country_code_border.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/drawable_calender_icon.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/drawable/calender_icon.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/drawable_duration_icon.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/drawable/duration_icon.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/layout_signup_otp_pg.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/layout/signup_otp_pg.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/layout_list_division.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/layout/list_division.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/drawable_first_letter_bg.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/drawable/first_letter_bg.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/color_bottom_nav_icon_color.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/color/bottom_nav_icon_color.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.iattendance.app-main-52:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/drawable_back_icon.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/drawable/back_icon.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/drawable_spinner_dropdown_background.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/drawable/spinner_dropdown_background.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/drawable_tick_icon.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/drawable/tick_icon.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/drawable_baseline_text_fields_24.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/drawable/baseline_text_fields_24.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/drawable_welcome_svg.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/drawable/welcome_svg.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/drawable_date_duration_bg.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/drawable/date_duration_bg.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/font_inter.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/font/inter.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/drawable_baseline_sort_by_alpha_24.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/drawable/baseline_sort_by_alpha_24.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/drawable_role_bg_selector.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/drawable/role_bg_selector.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/layout_admin_signup_pg2.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/layout/admin_signup_pg2.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/drawable_name_icon.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/drawable/name_icon.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/drawable_present_date_block_drawable_background.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/drawable/present_date_block_drawable_background.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/drawable_avatar.png.flat",
+        "source": "com.example.iattendance.app-main-52:/drawable/avatar.png"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/layout_list_semester.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/layout/list_semester.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/drawable_college_addr_icon.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/drawable/college_addr_icon.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/drawable_admin_dashboard_name_initial.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/drawable/admin_dashboard_name_initial.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/drawable_about_icon.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/drawable/about_icon.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/layout_faculty_add_subject.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/layout/faculty_add_subject.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/layout_faculty_attendance_pg.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/layout/faculty_attendance_pg.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/drawable_alert_icon.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/drawable/alert_icon.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/layout_subjects_recview.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/layout/subjects_recview.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.iattendance.app-main-52:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/layout_fragment_home_admin.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/layout/fragment_home_admin.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.iattendance.app-main-52:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/layout_fragment_stats_faculty.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/layout/fragment_stats_faculty.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/drawable_college_name_icon.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/drawable/college_name_icon.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/drawable_home_filled_icon.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/drawable/home_filled_icon.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/layout_welcome_screen.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/layout/welcome_screen.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/drawable_bg_tick_circle.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/drawable/bg_tick_circle.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/layout_student_attendance_history_view.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/layout/student_attendance_history_view.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/layout_select_role_pg.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/layout/select_role_pg.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/menu_stud_attendance_toolbar_menu.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/menu/stud_attendance_toolbar_menu.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/drawable_role_unchecked_bg.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/drawable/role_unchecked_bg.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/layout_login_screen.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/layout/login_screen.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/layout_fragment_stats_admin.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/layout/fragment_stats_admin.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/drawable_avatar_icon.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/drawable/avatar_icon.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/layout_student_bottom_nav.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/layout/student_bottom_nav.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/drawable_working_icon.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/drawable/working_icon.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/drawable_edit_icon.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/drawable/edit_icon.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/layout_wifi_row.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/layout/wifi_row.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/drawable_attendance_count_icon.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/drawable/attendance_count_icon.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/drawable_phone_icon.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/drawable/phone_icon.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/drawable_add_icon.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/drawable/add_icon.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/layout_student_attendance_status_faculty_view.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/layout/student_attendance_status_faculty_view.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/layout_activity_main.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/drawable_code_icon.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/drawable/code_icon.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/layout_admin_bottom_nav.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/layout/admin_bottom_nav.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/layout_fragment_stats_student.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/layout/fragment_stats_student.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/drawable_selected_date_block_drawable_background.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/drawable/selected_date_block_drawable_background.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/layout_fragment_home_student.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/layout/fragment_home_student.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.iattendance.app-main-52:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/drawable_circle_shape.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/drawable/circle_shape.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/drawable_password_icon.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/drawable/password_icon.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/drawable_stats_icon.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/drawable/stats_icon.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/xml_backup_rules.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/drawable_admin_dashboard_cards.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/drawable/admin_dashboard_cards.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/drawable_help_icon.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/drawable/help_icon.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/drawable_bottom_nav_bg.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/drawable/bottom_nav_bg.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.iattendance.app-main-52:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/drawable_role_icon_selector.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/drawable/role_icon_selector.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/drawable_empty_icon.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/drawable/empty_icon.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.iattendance.app-main-52:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/layout_fragment_settings_admin.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/layout/fragment_settings_admin.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/layout_student_attendance.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/layout/student_attendance.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/drawable_baseline_access_time_24.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/drawable/baseline_access_time_24.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/layout_faculty_bottom_nav.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/layout/faculty_bottom_nav.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/drawable_progress_bg.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/drawable/progress_bg.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/drawable_settings_icon.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/drawable/settings_icon.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/drawable_open_wifi_icon.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/drawable/open_wifi_icon.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/layout_fragment_home_faculty.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/layout/fragment_home_faculty.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/drawable_role_not_selected_icon.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/drawable/role_not_selected_icon.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/drawable_fab_shape.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/drawable/fab_shape.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/font_inter_semibold.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/font/inter_semibold.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/drawable_absent_date_block_drawable_background.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/drawable/absent_date_block_drawable_background.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/drawable_subj_cards.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/drawable/subj_cards.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.iattendance.app-main-52:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/layout_faculty_signup_pg2.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/layout/faculty_signup_pg2.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/drawable_stud_img.jpg.flat",
+        "source": "com.example.iattendance.app-main-52:/drawable/stud_img.jpg"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/layout_student_signup_pg3.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/layout/student_signup_pg3.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/layout_add_college_details.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/layout/add_college_details.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.iattendance.app-main-52:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/layout_list_subject_type.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/layout/list_subject_type.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/anim_tick_appear.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/anim/tick_appear.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/layout_fragment_settings_student.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/layout/fragment_settings_student.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.iattendance.app-main-52:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/drawable_baseline_menu_book_24.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/drawable/baseline_menu_book_24.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/layout_fragment_settings_faculty.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/layout/fragment_settings_faculty.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/drawable_role_selected_icon.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/drawable/role_selected_icon.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/drawable_role_checked_bg.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/drawable/role_checked_bg.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/drawable_role_txt_selector.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/drawable/role_txt_selector.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/drawable_college_code_img.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/drawable/college_code_img.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.iattendance.app-main-52:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/drawable_session_icon.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/drawable/session_icon.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/layout_spinner_item.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/layout/spinner_item.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/drawable_spinner_background.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/drawable/spinner_background.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/font_inter_medium.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/font/inter_medium.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/drawable_baseline_email_24.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/drawable/baseline_email_24.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-merged_res-50:/layout_faculty_student_signup_pg1.xml.flat",
+        "source": "com.example.iattendance.app-main-52:/layout/faculty_student_signup_pg1.xml"
+    }
+]

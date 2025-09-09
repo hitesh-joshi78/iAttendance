@@ -1,0 +1,133 @@
+<resources>
+    <!--    App name-->
+    <string name="app_name">iAttendance</string>
+
+    <!--    General strings-->
+    <string name="login">Log in</string>
+    <string name="noAcc">Don\'t have an account?</string>
+    <string name="signup_as">Sign-up as:</string>
+    <string name="signup">Sign up</string>
+    <string name="phone">Phone number</string>
+    <string name="pass">Password</string>
+    <string name="home">Home</string>
+    <string name="stats">Stats</string>
+    <string name="settings">Settings</string>
+    <string name="viewAll">View all</string>
+    <string name="otp">OTP</string>
+    <string name="getotp">Get OTP</string>
+    <string name="resend_otp">Resend OTP</string>
+    <string name="resend_in">Resend OTP in: </string>
+    <string name="otp_not_received">Didn’t received OTP?</string>
+    <string name="hav_acc">Already have an account?</string>
+    <string name="nxt">Next</string>
+    <string name="finish">Finish</string>
+    <string name="signup_heading">Hey,\nSignup Now!</string>
+    <string name="name">Full name</string>
+    <string name="college_code">College code</string>
+    <string name="college_name">College name</string>
+    <string name="college_address">College address</string>
+
+    <!--    Welcome screen-->
+    <string name="title">Revolutionizing Classroom Attendance Management</string>
+    <string name="subTxt">Effortlessly Track and Analyze Attendance for Faculty and Students</string>
+
+    <!--    Role screen-->
+    <string name="role_title">Get Started:\nChoose Your Role</string>
+    <string name="role_subTxt">Register as Based on Your Role in the\nInstitution</string>
+    <string name="select_role">Select an option:</string>
+    <string name="admin">Admin</string>
+    <string name="faculty">Faculty</string>
+    <string name="student">Student</string>
+
+    <!--    Login screen-->
+    <string name="log_title">Hey,\nLogin Now</string>
+
+    <!--    Signup screen-->
+    <string name="one">01</string>
+    <string name="two">02</string>
+    <string name="three">03</string>
+    <string name="two_">/ 02</string>
+    <string name="three_">/ 03</string>
+    <string name="faculty_signup_pg1">Hey,\nCollege Code Please!</string>
+    <string name="faculty_signup_pg2">Now,\nOne Last Step</string>
+
+    <!--    Admin Home fragment-->
+    <string name="user_mgmt">USER MANAGEMENT</string>
+    <string name="details_mgmt">DETAILS MANAGEMENT</string>
+    <string name="manage_users">Manage <u>Users</u></string>
+    <string name="manage_details">Manage <u>Details</u></string>
+    <string name="att_freq">Attendance Frequency</string>
+
+    <!--    Admin Settings fragment-->
+    <string name="app_settings">App Settings</string>
+    <string name="prof_sett">User profile</string>
+    <string name="log_out">Log out</string>
+    <string name="edit">Edit profile</string>
+    <string name="more_info">More info &amp; support</string>
+    <string name="work">How it works</string>
+    <string name="about">About</string>
+    <string name="help">Help</string>
+    <string name="delete">Delete account</string>
+    <string name="logged_in">Logged in</string>
+
+
+    <string name="overall_percent">Overall percentage</string>
+    <string name="div_att">Division attendance</string>
+    <string name="downloads">Downloads</string>
+    <string name="download_sem_rec">Overall records</string>
+    <string name="download_monthly_rec">Monthly records</string>
+
+    <!--    Home fragment-->
+    <string name="active">Active</string>
+
+    <!--    Student attendance screen-->
+    <string name="attendance">Attendance</string>
+    <string name="mark_present">Mark Present</string>
+    <string name="history">History</string>
+    <string name="your_presence">Your Presence</string>
+    <string name="overall_att">Overall attendance</string>
+    <string name="batch_range">Batch range</string>
+    <string name="_1_30">1–30 or 1–20 …</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--    Faculty attendance screen-->
+    <string name="start">Start</string>
+    <string name="end">End</string>
+    <string name="stud_list">Students list</string>
+    <string name="title_activity_faculty_student_signup_pg1">Faculty_Student_signup_pg1</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="title_activity_faculty_signup_pg2">Faculty_signup_pg2</string>
+    <string name="add_sub">Add Subject</string>
+    <string name="sub">Subject</string>
+    <string name="sub_code">Subject code</string>
+    <string name="add">Add subject</string>
+    <string name="year">Year</string>
+    <string name="rescan">Rescan</string>
+    <string name="wifi_net">Wifi networks</string>
+    <string name="select_wifi_net">Select preferred Wifi network.</string>
+
+    <!--    Admin-->
+    <string name="dpt_det">Department Details</string>
+    <string name="dpt_name">Department name</string>
+
+    <!--    Faculty create subject-->
+    <string name="sem">Semester</string>
+    <string name="sem_hint">1, 2, 3, …</string>
+    <string name="sub_type">Subject type</string>
+    <string name="sub_type_hint">Theory, Practical, Tutorial, …</string>
+    <string name="div">Division</string>
+    <string name="div_type">A, B, C, …</string>
+    <string name="batch">Batch</string>
+    <string name="batch_type">A1, B1, C1, …</string>
+    <string name="classes_completed">classes completed</string>
+    <string name="div1">Div - </string>
+    <string name="batch1">Batch - </string>
+    <string name="sems">Sem - </string>
+
+</resources>

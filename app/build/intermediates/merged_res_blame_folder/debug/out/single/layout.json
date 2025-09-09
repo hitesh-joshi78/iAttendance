@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "com.example.iattendance.app-mergeDebugResources-49:/layout/welcome_screen.xml",
+        "source": "com.example.iattendance.app-main-52:/layout/welcome_screen.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-mergeDebugResources-49:/layout/subjects_recview.xml",
+        "source": "com.example.iattendance.app-main-52:/layout/subjects_recview.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-mergeDebugResources-49:/layout/fragment_stats_faculty.xml",
+        "source": "com.example.iattendance.app-main-52:/layout/fragment_stats_faculty.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-mergeDebugResources-49:/layout/login_screen.xml",
+        "source": "com.example.iattendance.app-main-52:/layout/login_screen.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-mergeDebugResources-49:/layout/fragment_stats_student.xml",
+        "source": "com.example.iattendance.app-main-52:/layout/fragment_stats_student.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-mergeDebugResources-49:/layout/spinner_item.xml",
+        "source": "com.example.iattendance.app-main-52:/layout/spinner_item.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-mergeDebugResources-49:/layout/add_college_details.xml",
+        "source": "com.example.iattendance.app-main-52:/layout/add_college_details.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-mergeDebugResources-49:/layout/faculty_add_subject.xml",
+        "source": "com.example.iattendance.app-main-52:/layout/faculty_add_subject.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-mergeDebugResources-49:/layout/student_attendance_status_faculty_view.xml",
+        "source": "com.example.iattendance.app-main-52:/layout/student_attendance_status_faculty_view.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-mergeDebugResources-49:/layout/wifi_row.xml",
+        "source": "com.example.iattendance.app-main-52:/layout/wifi_row.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-mergeDebugResources-49:/layout/list_semester.xml",
+        "source": "com.example.iattendance.app-main-52:/layout/list_semester.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-mergeDebugResources-49:/layout/faculty_bottom_nav.xml",
+        "source": "com.example.iattendance.app-main-52:/layout/faculty_bottom_nav.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-mergeDebugResources-49:/layout/student_attendance.xml",
+        "source": "com.example.iattendance.app-main-52:/layout/student_attendance.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-mergeDebugResources-49:/layout/admin_signup_pg2.xml",
+        "source": "com.example.iattendance.app-main-52:/layout/admin_signup_pg2.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-mergeDebugResources-49:/layout/student_attendance_history_view.xml",
+        "source": "com.example.iattendance.app-main-52:/layout/student_attendance_history_view.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-mergeDebugResources-49:/layout/select_role_pg.xml",
+        "source": "com.example.iattendance.app-main-52:/layout/select_role_pg.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-mergeDebugResources-49:/layout/faculty_student_signup_pg1.xml",
+        "source": "com.example.iattendance.app-main-52:/layout/faculty_student_signup_pg1.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-mergeDebugResources-49:/layout/list_division.xml",
+        "source": "com.example.iattendance.app-main-52:/layout/list_division.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-mergeDebugResources-49:/layout/fragment_stats_admin.xml",
+        "source": "com.example.iattendance.app-main-52:/layout/fragment_stats_admin.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-mergeDebugResources-49:/layout/fragment_settings_student.xml",
+        "source": "com.example.iattendance.app-main-52:/layout/fragment_settings_student.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-mergeDebugResources-49:/layout/fragment_home_admin.xml",
+        "source": "com.example.iattendance.app-main-52:/layout/fragment_home_admin.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-mergeDebugResources-49:/layout/fragment_home_faculty.xml",
+        "source": "com.example.iattendance.app-main-52:/layout/fragment_home_faculty.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-mergeDebugResources-49:/layout/fragment_home_student.xml",
+        "source": "com.example.iattendance.app-main-52:/layout/fragment_home_student.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-mergeDebugResources-49:/layout/student_signup_pg3.xml",
+        "source": "com.example.iattendance.app-main-52:/layout/student_signup_pg3.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-mergeDebugResources-49:/layout/faculty_attendance_pg.xml",
+        "source": "com.example.iattendance.app-main-52:/layout/faculty_attendance_pg.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-mergeDebugResources-49:/layout/list_subject_type.xml",
+        "source": "com.example.iattendance.app-main-52:/layout/list_subject_type.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-mergeDebugResources-49:/layout/faculty_signup_pg2.xml",
+        "source": "com.example.iattendance.app-main-52:/layout/faculty_signup_pg2.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-mergeDebugResources-49:/layout/student_bottom_nav.xml",
+        "source": "com.example.iattendance.app-main-52:/layout/student_bottom_nav.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-mergeDebugResources-49:/layout/fragment_settings_faculty.xml",
+        "source": "com.example.iattendance.app-main-52:/layout/fragment_settings_faculty.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-mergeDebugResources-49:/layout/admin_bottom_nav.xml",
+        "source": "com.example.iattendance.app-main-52:/layout/admin_bottom_nav.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-mergeDebugResources-49:/layout/activity_main.xml",
+        "source": "com.example.iattendance.app-main-52:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-mergeDebugResources-49:/layout/parent_rv_layout.xml",
+        "source": "com.example.iattendance.app-main-52:/layout/parent_rv_layout.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-mergeDebugResources-49:/layout/fragment_settings_admin.xml",
+        "source": "com.example.iattendance.app-main-52:/layout/fragment_settings_admin.xml"
+    },
+    {
+        "merged": "com.example.iattendance.app-mergeDebugResources-49:/layout/signup_otp_pg.xml",
+        "source": "com.example.iattendance.app-main-52:/layout/signup_otp_pg.xml"
+    }
+]

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">215315650505</string>
+    <string name="google_api_key" translatable="false">AIzaSyCn4j0T5mdgdCH5cCMIR1QDP1Exj4Av_y0</string>
+    <string name="google_app_id" translatable="false">1:215315650505:android:328765e059079f81d5fa18</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCn4j0T5mdgdCH5cCMIR1QDP1Exj4Av_y0</string>
+    <string name="google_storage_bucket" translatable="false">iattendance-b691e.appspot.com</string>
+    <string name="project_id" translatable="false">iattendance-b691e</string>
+</resources>

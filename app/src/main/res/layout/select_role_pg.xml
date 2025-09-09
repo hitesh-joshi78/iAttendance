@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingTop="24dp"
+    android:paddingBottom="24dp"
+    tools:context=".SelectRole">
+
+    <!--        Back btn-->
+    <ImageButton
+        android:id="@+id/backBtn"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="24dp"
+        android:src="@drawable/back_icon"
+        app:backgroundTint="#00000000" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="28dp"
+        android:layout_marginTop="32dp"
+        android:layout_marginEnd="28dp"
+        android:layout_marginBottom="32dp"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/inter_semibold"
+            android:gravity="center"
+            android:lineHeight="26dp"
+            android:text="@string/role_title"
+            android:textColor="@color/black"
+            android:textSize="21sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="14dp"
+            android:fontFamily="@font/inter"
+            android:gravity="center"
+            android:lineHeight="20dp"
+            android:text="@string/role_subTxt"
+            android:textColor="@color/black"
+            android:textSize="14sp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="28dp"
+        android:layout_marginEnd="28dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/inter"
+            android:text="@string/select_role"
+            android:textColor="@color/black"
+            android:textSize="16sp" />
+
+        <RadioGroup
+            android:id="@+id/roleRadio"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="18dp"
+            android:orientation="vertical">
+
+            <RadioButton
+                android:id="@+id/admin_rb"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/role_bg_selector"
+                android:button="@android:color/transparent"
+                android:drawableEnd="@drawable/role_icon_selector"
+                android:fontFamily="@font/inter_medium"
+                android:fontFeatureSettings="pnum, lnum"
+                android:gravity="center_vertical"
+                android:padding="12dp"
+                android:text="@string/admin"
+                android:textColor="@drawable/role_txt_selector"
+                android:textSize="14sp" />
+
+            <RadioButton
+                android:id="@+id/faculty_rb"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="18dp"
+                android:background="@drawable/role_bg_selector"
+                android:button="@android:color/transparent"
+                android:drawableEnd="@drawable/role_icon_selector"
+                android:fontFamily="@font/inter_medium"
+                android:fontFeatureSettings="pnum, lnum"
+                android:gravity="center_vertical"
+                android:padding="12dp"
+                android:text="@string/faculty"
+                android:textColor="@drawable/role_txt_selector"
+                android:textSize="14sp" />
+
+            <RadioButton
+                android:id="@+id/student_rb"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="18dp"
+                android:background="@drawable/role_bg_selector"
+                android:button="@android:color/transparent"
+                android:drawableEnd="@drawable/role_icon_selector"
+                android:fontFamily="@font/inter_medium"
+                android:fontFeatureSettings="pnum, lnum"
+                android:gravity="center_vertical"
+                android:padding="12dp"
+                android:text="@string/student"
+                android:textColor="@drawable/role_txt_selector"
+                android:textSize="14sp" />
+
+        </RadioGroup>
+
+    </LinearLayout>
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/nxtBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginStart="28dp"
+        android:layout_marginTop="62dp"
+        android:layout_marginEnd="28dp"
+        android:backgroundTint="@color/primary_blue"
+        android:fontFamily="@font/inter_medium"
+        android:fontFeatureSettings="pnum, lnum"
+        android:gravity="center"
+        android:paddingStart="24dp"
+        android:paddingTop="12dp"
+        android:paddingEnd="24dp"
+        android:paddingBottom="12dp"
+        android:text="@string/nxt"
+        android:textAlignment="center"
+        android:textAllCaps="true"
+        android:textColor="@color/white"
+        android:textSize="14sp"
+        app:cornerRadius="6dp" />
+
+</LinearLayout>

@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="com_google_android_gms_fonts_certs">
+        <item>@array/com_google_android_gms_fonts_certs_dev</item>
+        <item>@array/com_google_android_gms_fonts_certs_prod</item>
+    </array>
+    <string-array name="com_google_android_gms_fonts_certs_dev">
+        <item>
+            MIIEqDCCA5CgAwIBAgIJANWFuGx90071MA0GCSqGSIb3DQEBBAUAMIGUMQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEQMA4GA1UEChMHQW5kcm9pZDEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDEiMCAGCSqGSIb3DQEJARYTYW5kcm9pZEBhbmRyb2lkLmNvbTAeFw0wODA0MTUyMzM2NTZaFw0zNTA5MDEyMzM2NTZaMIGUMQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEQMA4GA1UEChMHQW5kcm9pZDEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDEiMCAGCSqGSIb3DQEJARYTYW5kcm9pZEBhbmRyb2lkLmNvbTCCASAwDQYJKoZIhvcNAQEBBQADggENADCCAQgCggEBANbOLggKv+IxTdGNs8/TGFy0PTP6DHThvbbR24kT9ixcOd9W+EaBPWW+wPPKQmsHxajtWjmQwWfna8mZuSeJS48LIgAZlKkpFeVyxW0qMBujb8X8ETrWy550NaFtI6t9+u7hZeTfHwqNvacKhp1RbE6dBRGWynwMVX8XW8N1+UjFaq6GCJukT4qmpN2afb8sCjUigq0GuMwYXrFVee74bQgLHWGJwPmvmLHC69EH6kWr22ijx4OKXlSIx2xT1AsSHee70w5iDBiK4aph27yH3TxkXy9V89TDdexAcKk/cVHYNnDBapcavl7y0RiQ4biu8ymM8Ga/nmzhRKya6G0cGw8CAQOjgfwwgfkwHQYDVR0OBBYEFI0cxb6VTEM8YYY6FbBMvAPyT+CyMIHJBgNVHSMEgcEwgb6AFI0cxb6VTEM8YYY6FbBMvAPyT+CyoYGapIGXMIGUMQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEQMA4GA1UEChMHQW5kcm9pZDEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDEiMCAGCSqGSIb3DQEJARYTYW5kcm9pZEBhbmRyb2lkLmNvbYIJANWFuGx90071MAwGA1UdEwQFMAMBAf8wDQYJKoZIhvcNAQEEBQADggEBABnTDPEF+3iSP0wNfdIjIz1AlnrPzgAIHVvXxunW7SBrDhEglQZBbKJEk5kT0mtKoOD1JMrSu1xuTKEBahWRbqHsXclaXjoBADb0kkjVEJu/Lh5hgYZnOjvlba8Ld7HCKePCVePoTJBdI4fvugnL8TsgK05aIskyY0hKI9L8KfqfGTl1lzOv2KoWD0KWwtAWPoGChZxmQ+nBli+gwYMzM1vAkP+aayLe0a1EQimlOalO762r0GXO0ks+UeXde2Z4e+8S/pf7pITEI/tP+MxJTALw9QUWEv9lKTk+jkbqxbsh8nfBUapfKqYn0eidpwq2AzVp3juYl7//fKnaPhJD9gs=
+        </item>
+    </string-array>
+    <string-array name="com_google_android_gms_fonts_certs_prod">
+        <item>
+            MIIEQzCCAyugAwIBAgIJAMLgh0ZkSjCNMA0GCSqGSIb3DQEBBAUAMHQxCzAJBgNVBAYTAlVTMRMwEQYDVQQIEwpDYWxpZm9ybmlhMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MRQwEgYDVQQKEwtHb29nbGUgSW5jLjEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDAeFw0wODA4MjEyMzEzMzRaFw0zNjAxMDcyMzEzMzRaMHQxCzAJBgNVBAYTAlVTMRMwEQYDVQQIEwpDYWxpZm9ybmlhMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MRQwEgYDVQQKEwtHb29nbGUgSW5jLjEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDCCASAwDQYJKoZIhvcNAQEBBQADggENADCCAQgCggEBAKtWLgDYO6IIrgqWbxJOKdoR8qtW0I9Y4sypEwPpt1TTcvZApxsdyxMJZ2JORland2qSGT2y5b+3JKkedxiLDmpHpDsz2WCbdxgxRczfey5YZnTJ4VZbH0xqWVW/8lGmPav5xVwnIiJS6HXk+BVKZF+JcWjAsb/GEuq/eFdpuzSqeYTcfi6idkyugwfYwXFU1+5fZKUaRKYCwkkFQVfcAs1fXA5V+++FGfvjJ/CxURaSxaBvGdGDhfXE28LWuT9ozCl5xw4Yq5OGazvV24mZVSoOO0yZ31j7kYvtwYK6NeADwbSxDdJEqO4k//0zOHKrUiGYXtqw/A0LFFtqoZKFjnkCAQOjgdkwgdYwHQYDVR0OBBYEFMd9jMIhF1Ylmn/Tgt9r45jk14alMIGmBgNVHSMEgZ4wgZuAFMd9jMIhF1Ylmn/Tgt9r45jk14aloXikdjB0MQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEUMBIGA1UEChMLR29vZ2xlIEluYy4xEDAOBgNVBAsTB0FuZHJvaWQxEDAOBgNVBAMTB0FuZHJvaWSCCQDC4IdGZEowjTAMBgNVHRMEBTADAQH/MA0GCSqGSIb3DQEBBAUAA4IBAQBt0lLO74UwLDYKqs6Tm8/yzKkEu116FmH4rkaymUIE0P9KaMftGlMexFlaYjzmB2OxZyl6euNXEsQH8gjwyxCUKRJNexBiGcCEyj6z+a1fuHHvkiaai+KL8W1EyNmgjmyy8AW7P+LLlkR+ho5zEHatRbM/YAnqGcFh5iZBqpknHf1SKMXFh4dd239FJ1jWYfbMDMy3NS5CTMQ2XFI1MvcyUTdZPErjQfTbQe3aDQsQcafEQPD+nqActifKZ0Np0IS9L9kR/wbNvyz6ENwPiTrjV2KRkEjH78ZMcUQXg0L3BYHJ3lc69Vs5Ddf9uUGGMYldX3WfMBEmh/9iFBDAaTCK
+        </item>
+    </string-array>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/inter</item>
+        <item>@font/inter_medium</item>
+        <item>@font/inter_semibold</item>
+    </array>
+    <string-array name="signup_options_arr">
+        <item>Admin</item>
+        <item>Faculty</item>
+        <item>Student</item>
+    </string-array>
+    <color name="alert_bg">#F0F2F6</color>
+    <color name="bg">#F0F2F6</color>
+    <color name="black">#181818</color>
+    <color name="border">#959394</color>
+    <color name="card_border">#E4E5E5</color>
+    <color name="dark_blue">#002591</color>
+    <color name="dark_grey">#3D434E</color>
+    <color name="green">#02AB6E</color>
+    <color name="grey">#818181</color>
+    <color name="history_absent_tv">#E93131</color>
+    <color name="history_present_tv">#02AB6E</color>
+    <color name="nav_border">#F6F6F6</color>
+    <color name="orange">#F5980D</color>
+    <color name="primary_blue">#0D71F5</color>
+    <color name="progress_bar_bg">#80F8FBFF</color>
+    <color name="red">#E93131</color>
+    <color name="secondary">#949699</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yellow">#F5C20D</color>
+    <dimen name="default_margin_bottom">4dp</dimen>
+    <dimen name="default_margin_top">4dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="first_item_margin_top">20dp</dimen>
+    <dimen name="last_item_margin_bottom">0dp</dimen>
+    <string name="_1_30">1–30 or 1–20 …</string>
+    <string name="about">About</string>
+    <string name="active">Active</string>
+    <string name="add">Add subject</string>
+    <string name="add_sub">Add Subject</string>
+    <string name="admin">Admin</string>
+    <string name="app_name">iAttendance</string>
+    <string name="app_settings">App Settings</string>
+    <string name="att_freq">Attendance Frequency</string>
+    <string name="attendance">Attendance</string>
+    <string name="batch">Batch</string>
+    <string name="batch1">Batch - </string>
+    <string name="batch_range">Batch range</string>
+    <string name="batch_type">A1, B1, C1, …</string>
+    <string name="classes_completed">classes completed</string>
+    <string name="college_address">College address</string>
+    <string name="college_code">College code</string>
+    <string name="college_name">College name</string>
+    <string name="delete">Delete account</string>
+    <string name="details_mgmt">DETAILS MANAGEMENT</string>
+    <string name="div">Division</string>
+    <string name="div1">Div - </string>
+    <string name="div_att">Division attendance</string>
+    <string name="div_type">A, B, C, …</string>
+    <string name="download_monthly_rec">Monthly records</string>
+    <string name="download_sem_rec">Overall records</string>
+    <string name="downloads">Downloads</string>
+    <string name="dpt_det">Department Details</string>
+    <string name="dpt_name">Department name</string>
+    <string name="edit">Edit profile</string>
+    <string name="end">End</string>
+    <string name="faculty">Faculty</string>
+    <string name="faculty_signup_pg1">Hey,\nCollege Code Please!</string>
+    <string name="faculty_signup_pg2">Now,\nOne Last Step</string>
+    <string name="finish">Finish</string>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="gcm_defaultSenderId" translatable="false">215315650505</string>
+    <string name="getotp">Get OTP</string>
+    <string name="google_api_key" translatable="false">AIzaSyCn4j0T5mdgdCH5cCMIR1QDP1Exj4Av_y0</string>
+    <string name="google_app_id" translatable="false">1:215315650505:android:328765e059079f81d5fa18</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCn4j0T5mdgdCH5cCMIR1QDP1Exj4Av_y0</string>
+    <string name="google_storage_bucket" translatable="false">iattendance-b691e.appspot.com</string>
+    <string name="hav_acc">Already have an account?</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="help">Help</string>
+    <string name="history">History</string>
+    <string name="home">Home</string>
+    <string name="log_out">Log out</string>
+    <string name="log_title">Hey,\nLogin Now</string>
+    <string name="logged_in">Logged in</string>
+    <string name="login">Log in</string>
+    <string name="manage_details">Manage <u>Details</u></string>
+    <string name="manage_users">Manage <u>Users</u></string>
+    <string name="mark_present">Mark Present</string>
+    <string name="more_info">More info &amp; support</string>
+    <string name="name">Full name</string>
+    <string name="next">Next</string>
+    <string name="noAcc">Don\'t have an account?</string>
+    <string name="nxt">Next</string>
+    <string name="one">01</string>
+    <string name="otp">OTP</string>
+    <string name="otp_not_received">Didn’t received OTP?</string>
+    <string name="overall_att">Overall attendance</string>
+    <string name="overall_percent">Overall percentage</string>
+    <string name="pass">Password</string>
+    <string name="phone">Phone number</string>
+    <string name="previous">Previous</string>
+    <string name="prof_sett">User profile</string>
+    <string name="project_id" translatable="false">iattendance-b691e</string>
+    <string name="rescan">Rescan</string>
+    <string name="resend_in">Resend OTP in: </string>
+    <string name="resend_otp">Resend OTP</string>
+    <string name="role_subTxt">Register as Based on Your Role in the\nInstitution</string>
+    <string name="role_title">Get Started:\nChoose Your Role</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="select_role">Select an option:</string>
+    <string name="select_wifi_net">Select preferred Wifi network.</string>
+    <string name="sem">Semester</string>
+    <string name="sem_hint">1, 2, 3, …</string>
+    <string name="sems">Sem - </string>
+    <string name="settings">Settings</string>
+    <string name="signup">Sign up</string>
+    <string name="signup_as">Sign-up as:</string>
+    <string name="signup_heading">Hey,\nSignup Now!</string>
+    <string name="start">Start</string>
+    <string name="stats">Stats</string>
+    <string name="stud_list">Students list</string>
+    <string name="student">Student</string>
+    <string name="sub">Subject</string>
+    <string name="subTxt">Effortlessly Track and Analyze Attendance for Faculty and Students</string>
+    <string name="sub_code">Subject code</string>
+    <string name="sub_type">Subject type</string>
+    <string name="sub_type_hint">Theory, Practical, Tutorial, …</string>
+    <string name="three">03</string>
+    <string name="three_">/ 03</string>
+    <string name="title">Revolutionizing Classroom Attendance Management</string>
+    <string name="title_activity_faculty_signup_pg2">Faculty_signup_pg2</string>
+    <string name="title_activity_faculty_student_signup_pg1">Faculty_Student_signup_pg1</string>
+    <string name="two">02</string>
+    <string name="two_">/ 02</string>
+    <string name="user_mgmt">USER MANAGEMENT</string>
+    <string name="viewAll">View all</string>
+    <string name="wifi_net">Wifi networks</string>
+    <string name="work">How it works</string>
+    <string name="year">Year</string>
+    <string name="your_presence">Your Presence</string>
+    <style name="Base.Theme.IAttendance" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="SettingButton" parent="Widget.MaterialComponents.Button.TextButton">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">#00000000</item>
+        <item name="android:fontFamily">@font/inter_medium</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:padding">6dp</item>
+        <item name="android:paddingStart">24dp</item>
+        <item name="textAllCaps">false</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="iconPadding">12dp</item>
+        <item name="iconSize">24dp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="iconTint">@color/black</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+    <style name="SettingButtonRed" parent="SettingButton">
+        <item name="android:textColor">@color/red</item>
+        <item name="android:letterSpacing">0</item>
+    </style>
+    <style name="Theme.IAttendance" parent="Base.Theme.IAttendance"/>
+    <style name="YourCustomTextAppearance" parent="Widget.MaterialComponents.Toolbar">
+        <item name="android:textSize">17sp</item> 
+        <item name="android:fontFamily">@font/inter_medium</item> 
+        <item name="android:textColor">@color/black</item> 
+        
+    </style>
+</resources>
